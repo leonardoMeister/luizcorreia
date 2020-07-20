@@ -7,7 +7,7 @@ I'm a software engineer who is passionate about making new technology more acces
 Some technologies I enjoy working with include ReactJS, React-Native.
 
 I'm in love with the AWS platform. 
-Now building a Smart VW T2 Van the talk with Alexa.
+Now building a [Smart VW T2 Van](https://instagram.com/nossakombeth) the talk with Alexa.
 
 ## Find me around the web 🌎:
 
