@@ -46,6 +46,11 @@ Sharing updates on <a href="https://luizcorreia.eti.br/"> My website </a>
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Git warning: Pulling without specifying how to reconcile divergent branches is discouraged](https://luizcorreia.eti.br/git-warning-pulling-without-specifying-how-to-reconcile-divergent-branches-is-discouraged/)
+- [Explore o novo recurso README do Github](https://luizcorreia.eti.br/new-gihub-readme/)
+- [TypeScript: Declarando Mongoose Schema + Model](https://luizcorreia.eti.br/typescript-declarando-mongoose-schema-model/)
+- [Mapeando os casos do Wuhan Coronavirus](https://luizcorreia.eti.br/wuhan-coronavirus/)
+- [LGPD: A lei geral de proteção de dados](https://luizcorreia.eti.br/lgpd-a-lei-geral-de-protecao/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
