@@ -44,7 +44,9 @@ Sharing updates on <a href="https://luizcorreia.eti.br/"> My website </a>
 ![Luiz Correia github stats](https://github-readme-stats.vercel.app/api?username=luizcorreia&layout=compact&theme=default&show_icons=true&count_private=true&line_height=24) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizcorreia&layout=compact&langs_count=8&theme=default&exclude_repo=openauto,RespirAR-DIY,Stat_Cache,caltech-lane-detection,librekinect)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+## Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizcorreia&layout=compact&langs_count=8&theme=default&exclude_repo=qmk_firmware,openauto)
